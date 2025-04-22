@@ -10,8 +10,6 @@
 
 2. Vemos que hay mucho trafico con la **ip 103.10.197.187 y el puerto TCP 2703**
 
-<img src="./r3_1.png>
-
-## ¿Qué tipo de canal de Comando y Control (C2) se estableció desde la computadora de Krusty a un servidor en Hong Kong después de que el software C2 fue descargado y ejecutado
+<img src="./r3_1.png">
 
 
